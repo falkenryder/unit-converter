@@ -4,7 +4,7 @@ Metric/Imperial Unit Converter
 Solo project from Scrimba; a Metric/Imperial unit converter. Input any numerical values and it will convert that figure into metres/feet, litres/gallon,
 and kilograms/pounds.
 
-- Challenge to self: Be able to finish the program with as little lines of code as possible. I'm really keen on JS, so i was happy to be able to do this. I had also learned some extra stuff outside of the scrimba course to aid me in this process. I will improve in this further, in the future, when i have advanced further in my learning journey.
+- Challenge to self: Be able to finish the program with as little lines of code as possible. I'm really keen on JS, so i was happy to be able to do this. I had also learned some extra stuff outside of the scrimba course to aid me in this process. I will improve this, in the future, when i have advanced further in my learning journey.
   - String Interpolation
   - HTML DOM Input Text value Property
 
